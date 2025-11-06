@@ -1,3 +1,4 @@
+First copy the code and enter into a online compiler or any compiler platforms like Dev C++,vs code,codechef compiler,....
 
 “Your goal is to guess the secret number. You win when you guess it exactly.”
 
